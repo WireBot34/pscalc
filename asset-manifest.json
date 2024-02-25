@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/pscalc/static/css/main.30624651.css",
-    "main.js": "/pscalc/static/js/main.6bff7f57.js",
-    "static/js/453.ee3d00d6.chunk.js": "/pscalc/static/js/453.ee3d00d6.chunk.js",
-    "index.html": "/pscalc/index.html",
-    "main.30624651.css.map": "/pscalc/static/css/main.30624651.css.map",
-    "main.6bff7f57.js.map": "/pscalc/static/js/main.6bff7f57.js.map",
-    "453.ee3d00d6.chunk.js.map": "/pscalc/static/js/453.ee3d00d6.chunk.js.map"
+    "main.css": "/static/css/main.30624651.css",
+    "main.js": "/static/js/main.ecc1ae35.js",
+    "static/js/453.ee3d00d6.chunk.js": "/static/js/453.ee3d00d6.chunk.js",
+    "index.html": "/index.html",
+    "main.30624651.css.map": "/static/css/main.30624651.css.map",
+    "main.ecc1ae35.js.map": "/static/js/main.ecc1ae35.js.map",
+    "453.ee3d00d6.chunk.js.map": "/static/js/453.ee3d00d6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.30624651.css",
-    "static/js/main.6bff7f57.js"
+    "static/js/main.ecc1ae35.js"
   ]
 }
