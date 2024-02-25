@@ -2,6 +2,7 @@
 import "../index.css";
 import Header from "../components/Header";
 import { Helmet } from "react-helmet";
+import Calculatorsb from "../components/Calculatorsb";
 
 function Home() {
   return (
@@ -10,6 +11,7 @@ function Home() {
         <title>PSCalc | Home</title>
       </Helmet>
       <Header />
+      <Calculatorsb />
       {/* <h1 className="text-3xl font-bold text-center underline">
         Welcome to the Homepage
       </h1>
