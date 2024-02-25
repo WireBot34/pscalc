@@ -5,7 +5,7 @@ import { Helmet } from "react-helmet";
 
 function Contact() {
   return (
-    <div>
+    <div className="bg-darkFG dark:bg-darkBG dark:text-darkFG">
       <Helmet>
         <title>PSCalc | Contact</title>
       </Helmet>

@@ -10,7 +10,7 @@ import { Helmet } from "react-helmet";
 
 function About() {
   return (
-    <div>
+    <div className="bg-darkFG dark:bg-darkBG dark:text-darkFG">
       <Helmet>
         <title>PSCalc | About</title>
       </Helmet>
