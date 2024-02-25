@@ -25,7 +25,7 @@ function Navbar() {
 
   return (
     <div className="flex justify-between items-center h-24 max-w-[1240px] mx-auto px-4">
-      <h1 className="w-full text-3xl font-bold text-[#D2DE32]">REACT.</h1>
+      <h1 className="w-full text-3xl font-bold text-[#D2DE32]">PSC Calculator</h1>
 
       <ul className="hidden md:flex">
         <li className="p-4">
@@ -59,7 +59,7 @@ function Navbar() {
             : "fixed left-[-100%] ease-in-out duration-100"
         }
       >
-        <h1 className="w-full text-3xl font-bold text-[#D2DE32]">REACT.</h1>
+        <h1 className="w-full text-3xl font-bold text-[#D2DE32]">PSC Calculator</h1>
 
         <ul className=" uppercase p-4">
           <li className="p-4 border-b border-gray-600">
